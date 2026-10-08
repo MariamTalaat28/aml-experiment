@@ -1,0 +1,22 @@
+# Python virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Temporary and editor files
+*.swp
+*.swo
+*.save
+
+# Dataset files
+data/
+
+# Environment variables and secrets
+.env
+*.pem

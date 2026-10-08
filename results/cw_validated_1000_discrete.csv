@@ -1,0 +1,2 @@
+attack,n_samples,cw_steps,cw_lr,cw_c,cw_kappa,domain_lower_percentile,domain_upper_percentile,fixed_discrete_features,perturbable_features,clean_accuracy,cw_accuracy,accuracy_drop,precision,recall,f1,evasion_rate,successful_attacks,mean_l2,median_l2,max_l2,mean_linf,median_linf,max_linf,max_fixed_discrete_perturbation,total_fixed_discrete_changes,tn,fp,fn,tp
+C&W,1000,100,0.005,1.0,0.0,0.1,99.9,13,65,0.999,0.478,0.521,0.014124293785310734,0.028089887640449437,0.018796992481203006,0.522,522,0.6029887,0.57332194,3.1153266,0.18396124,0.13529593,1.476965,0.0,0,473,349,173,5

@@ -1,0 +1,2 @@
+attack,n_samples,cw_max_iter,cw_learning_rate,cw_binary_search_steps,cw_initial_const,cw_confidence,art_clip_min,art_clip_max,clean_accuracy,accuracy,accuracy_drop,precision,recall,f1,evasion_rate,successful_evasions,clean_correct,mean_l2,median_l2,max_l2,mean_linf,max_linf,tn,fp,fn,tp
+ART_CW,1000,30,0.01,1,1.0,0.0,-5.0,5.0,0.999,0.002,0.997,0.0012165450121654502,0.0056179775280898875,0.002,0.997997997997998,997,999,9.291916,6.374693,108.692444,3.846837,76.78161,1,821,177,1

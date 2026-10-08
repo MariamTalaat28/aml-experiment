@@ -1,0 +1,2 @@
+Attack,Clean Accuracy,Adversarial Accuracy,Accuracy Drop,Precision,Recall,F1,Attack Success Rate,Successful Attacks,Attack Samples,Mean L2,Median L2,Max L2,Mean Linf,Median Linf,Max Linf,TN,FP,FN,TP,Raw Domain Violations,Fixed Feature Violations
+C&W,0.996,0.2751004016064257,0.7208995983935743,0.0,0.0,0.0,0.7248995983935743,722,996,0.43787629743618445,0.35939208963477065,1.7080639784978748,0.12460851843443599,0.08177987486124039,0.48400193452835083,274,548,174,0,0,0

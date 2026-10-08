@@ -1,0 +1,2 @@
+clean_accuracy,cw_accuracy,accuracy_drop_pp,precision,recall,f1,attack_success_rate,successful_attacks,attackable_samples,mean_l2,median_l2,max_l2,mean_linf,median_linf,max_linf,tn,fp,fn,tp,raw_domain_violation_features,fixed_feature_changes
+0.996,0.273,72.3,0.0,0.0,0.0,0.7259036144578314,723,996,0.6035049,0.6237255,1.7080638,0.17235893,0.18351609,0.48400193,273,551,176,0,24,0

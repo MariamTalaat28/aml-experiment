@@ -1,0 +1,2 @@
+Attack,Clean_Accuracy,Accuracy,Accuracy_Drop,Precision,Recall,F1,Evasion_Rate,Successful_Evasions,Clean_Correct,Mean_L2,Median_L2,Max_L2,Mean_Linf,Max_Linf,TN,FP,FN,TP,Max_Iterations,Epsilon,ART_Clip_Min,ART_Clip_Max
+ART DeepFool,0.999,0.001,0.998,0.0,0.0,0.0,1.0,999,999,2.1709669,1.0181012,110.58716,1.2887927,78.31723,1,821,178,0,50,0.02,-5.0,5.0

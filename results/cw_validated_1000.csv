@@ -1,0 +1,2 @@
+attack,n_samples,cw_steps,cw_lr,cw_c,cw_kappa,domain_lower_percentile,domain_upper_percentile,binary_features_fixed,perturbable_features,clean_accuracy,cw_accuracy,accuracy_drop,precision,recall,f1,evasion_rate,successful_attacks,mean_l2,median_l2,max_l2,mean_linf,median_linf,max_linf,max_binary_perturbation,tn,fp,fn,tp
+C&W,1000,100,0.005,1.0,0.0,0.1,99.9,8,70,0.999,0.438,0.5609999999999999,0.012690355329949238,0.028089887640449437,0.017482517482517484,0.562,562,0.6309663,0.624078,3.0884786,0.1915235,0.15266109,1.476965,0.0,433,389,173,5

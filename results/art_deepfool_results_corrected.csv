@@ -1,0 +1,2 @@
+Attack,Clean_Accuracy,Accuracy,Accuracy_Drop,Precision,Recall,F1,Evasion_Rate,Successful_Evasions,Clean_Correct,Mean_L2,Median_L2,Max_L2,Mean_Linf,Max_Linf,TN,FP,FN,TP,Max_Iterations,Epsilon_Overshoot,ART_Clip_Min,ART_Clip_Max,Valid_Domain_Samples
+ART DeepFool,0.997,0.003,0.994,0.002398081534772182,0.011976047904191617,0.003996003996003996,1.0,997,997,1.3148637,0.8507098,10.190088,0.71575683,3.968889,1,832,165,2,50,0.02,-5.0,5.0,465963
