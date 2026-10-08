@@ -1,5 +1,5 @@
 
-# Adversarial Machine Learning for Network Intrusion Detection
+# Cloud-Based Adversarial Machine Learning for Network Intrusion Detection
 
 This project investigates the vulnerability of deep learning-based network intrusion detection systems to adversarial attacks and evaluates different defense mechanisms against these attacks.
 
